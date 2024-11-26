@@ -72,7 +72,7 @@ nohup python main.py --config config/nturgbd120-cross-subject/joint.yaml --devic
 #python main.py --config config/baseline_ctrgcn_interaction_biBetaInit0.yaml --device 0
 ```
 
-This repo is based on [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN) and [2s-AGCN](https://github.com/lshiwjx/2s-AGCN). The data processing is borrowed from [SGN](https://github.com/microsoft/SGN) and [HCN](https://github.com/huguyuehuhu/HCN-pytorch).
+This repo is based on [2s-AGCN](https://github.com/lshiwjx/2s-AGCN). The data processing is borrowed from [SGN](https://github.com/microsoft/SGN) and [HCN](https://github.com/huguyuehuhu/HCN-pytorch).
 
 Thanks to the original authors for their work!
 
